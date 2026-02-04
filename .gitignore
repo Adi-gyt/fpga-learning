@@ -1,0 +1,7 @@
+# Icarus Verilog outputs
+*.vcd
+sim.out
+
+# Optional temp files
+*.log
+*.tmp
